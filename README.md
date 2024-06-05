@@ -11,13 +11,13 @@
 <li>📫 How to reach me: <a href="https://www.linkedin.com/in/shalinibiswal6762/"> Linkedin </a>
 </ul>
 
-<h2>Skills</h2>
+<h2>🎯Skills🎯</h2>
 <p>
-<img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1ODcyOTEsIm5iZiI6MTcxNzU4Njk5MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDExMjk1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MmYyYTllYWU3NTc2ZWUxNGNmOGQyYzcyZjQwM2YwYTljYjEyYTZiZGRlMzkyYTAyMDRmYzQ3ZDdlYjI4YTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.58pzCidm4yT6b2uWb9KO950KF6wArBKVMet9XDEF8aY" alt="HTML" width="75" height="75"/>  
+<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" width="55" height="55"/>  
 
-<img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1ODcyOTEsIm5iZiI6MTcxNzU4Njk5MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDExMjk1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyZjMwNDBiNjU0OWIxZTZkMmI2NDMxOTk1MjRmNTYwMWEzY2Y3ZGQ3ZWNiOGJjN2Y4MTMyMjI1NmQ1MzEzMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QUDc-jNCq_VZP4nWEqvwMDLsfHYaz_9onNc7RypI9Ks" alt="CSS" width="75" height="75"/>
+<img src="https://cdn-icons-png.flaticon.com/128/16183/16183567.png" alt="CSS" width="71" height="71"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Javascript" width="67" height="67"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Javascript" width="60" height="60"/>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="60" height="60"/>
@@ -25,14 +25,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="60" height="60"/>
 
-<img src="https://private-user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1ODcyOTEsIm5iZiI6MTcxNzU4Njk5MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzMtM2ZiMmNkZjYtODkyMC00NjJlLTg3YTQtOTVhZjM3NjQxOGFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDExMjk1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MTJiZmUzOWEzNzA4MzY4ZmM5OWI5MjgwMWU4N2RhOTdjMjA1N2E2ZTQ4NjRkZGI2MGZhNGIwNmExMGM4NjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Kyd5q6tDnzMraC_IIo0O85e3BLjg3Ib164m8AKyBlOM" alt="ubuntu" width="85" height="85"/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" alt="MySQL" width="55" height="55"/>
+<img src="https://cdn-icons-png.flaticon.com/128/888/888879.png" alt="ubuntu" width="60" height="60"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" alt="MySQL" width="60" height="60"/>
 <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="60" height="60"/>
-
-
-
-
-
 
 </p>
 
