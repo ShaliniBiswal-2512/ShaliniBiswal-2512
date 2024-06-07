@@ -20,7 +20,7 @@
 
 </ul>
 </h3>
-<h2>🎯Skills🎯</h2>
+<h1>🎯Skills🎯</h1>
 <p>
 <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" width="55" height="55"/>  
 
