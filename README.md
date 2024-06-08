@@ -1,6 +1,6 @@
 <h1 align="center"><i>Hi, I'm Shalini </i>👋👩🏻‍💻 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinibiswal-2512&label=Profile%20views&color=0e75b6&style=flat" alt="shalinibiswal-2512" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shalinibiswal-2512&label=Glance%20counts&color=0e75b6&style=flat" alt="shalinibiswal-2512" /> </p>
 
 <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWMzNjlvYTFmdHdjb3dlemd1cWhmdHZkaHBrMjA2NnpmamR0aDh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" alt="Girl coding gif" width="600" height="400"/></p>
 <h1 align="center"><em>
